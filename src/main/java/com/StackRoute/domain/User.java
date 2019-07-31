@@ -1,4 +1,5 @@
 package com.StackRoute.domain;
+//User class where the properties of User are stored and accessed
 
 public class User {
   private String userName;
